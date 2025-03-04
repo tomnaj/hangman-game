@@ -23,7 +23,7 @@ Ensure you have the following installed on your system:
 ### Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/hangman-game.git  
+   git clone https://github.com/tomnaj/hangman-game.git  
    ```  
 2. Navigate to the project directory:  
    ```bash  
@@ -69,7 +69,5 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 ## License 📜  
 This project is licensed under the MIT License.  
 
-## Acknowledgments 🙌  
-Thanks to everyone who helped in creating this project!  
 
 ---
