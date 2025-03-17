@@ -61,10 +61,8 @@ hangman-game/
 ## Technologies Used 💻  
 - **HTML**: For structuring the game layout.  
 - **CSS**: For styling the game interface.  
-- **JavaScript**: For game logic and interactivity.  
-
-## Contributing 🤝  
-Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements.  
+- **JavaScript**: For game logic and interactivity.
+- 
 
 ## License 📜  
 This project is licensed under the MIT License.  
