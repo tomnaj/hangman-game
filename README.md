@@ -62,7 +62,7 @@ hangman-game/
 - **HTML**: For structuring the game layout.  
 - **CSS**: For styling the game interface.  
 - **JavaScript**: For game logic and interactivity.
-- 
+
 
 ## License 📜  
 This project is licensed under the MIT License.  
